@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @SpringBootApplication
-@ServletComponentScan  //Springboot 启动时扫描 webServlet 注解，并且实例化该类
+@ServletComponentScan  //Springboot 启动时扫描 webServlet webFilter注解，并且实例化该类
 public class SpringbootwebApplication {
 
     public static void main(String[] args) {
