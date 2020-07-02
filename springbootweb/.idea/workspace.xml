@@ -26,11 +26,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServletConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/config/ServletConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/FirstServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondSerlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/SecondSerlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,8 +74,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/FirstServlet.java" />
         <option value="$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/SpringbootwebApplication.java" />
+        <option value="$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/FirstServlet.java" />
+        <option value="$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/SecondSerlet.java" />
+        <option value="$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/config/ServletConfig.java" />
       </list>
     </option>
   </component>
@@ -79,7 +105,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="666" />
+    <option name="x" value="190" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -122,6 +148,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springbootweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootweb" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springbootweb" type="b2602c69:ProjectViewProjectNode" />
@@ -235,12 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593655193345</updated>
-      <workItem from="1593655194888" duration="1331000" />
+      <workItem from="1593655194888" duration="2756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1331000" />
+    <option name="totallyTimeSpent" value="2756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="666" y="23" width="1400" height="1000" extended-state="0" />
@@ -263,7 +298,7 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50863934" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -286,6 +321,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/FirstServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/SecondSerlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/SpringbootwebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -298,10 +353,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/servlet/FirstServlet.java">
+    <entry file="file://$PROJECT_DIR$/springbootweb/src/main/java/com/springbootweb/springbootweb/config/ServletConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
